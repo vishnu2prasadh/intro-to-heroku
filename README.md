@@ -10,3 +10,5 @@ This application is designed for the Trailhead Project [Develop a Heroku App Tha
 Adding Some Text for new patch-branch-3
 
 Adding Some Text for new patch-branch-3.1
+
+Adding after a sub branhc Adding Some Text for new patch-branch-3.1 creation
